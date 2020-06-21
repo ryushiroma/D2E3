@@ -1,0 +1,12 @@
+/*Desafio 2 - Exercício 3*/
+/*function App() {
+  const lista = ['Diego','Gabriel','Lucas']
+
+  return (
+    <ul>
+      {lista.map(item => {
+        return <li key={item}>{item}</li>;
+      })}
+    </ul>
+  )
+}*/
